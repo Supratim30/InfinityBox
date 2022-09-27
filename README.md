@@ -102,6 +102,6 @@ Unable to complete the setting up of Redis, as a result the Queue might not work
 
 ## Feedback
 
-If you have any feedback, please reach out to supratimajumder30@gmail.com
+If you have any feedback, please reach out to supratimmajumder30@gmail.com
 
 
